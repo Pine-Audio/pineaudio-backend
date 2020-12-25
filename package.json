@@ -1,0 +1,25 @@
+{
+  "name": "pineaudio-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pine-Audio/pineaudio-backend.git"
+  },
+  "author": "nailujx86",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Pine-Audio/pineaudio-backend/issues"
+  },
+  "homepage": "https://github.com/Pine-Audio/pineaudio-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "mongoose": "^5.11.7"
+  }
+}
